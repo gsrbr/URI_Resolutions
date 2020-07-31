@@ -3,4 +3,4 @@
 
 Algumas resoluções do site www.urionlinejudge.com.br separadas por categorias:open_file_folder:
 
-OBS: O URI é um site para aperfeiçoar suas habilidades então recomendo que só use esse repositorio para te auxiliar a encontrar o caminho:+1:
+Obs.: O URI é um site para aperfeiçoar suas habilidades então recomendo que só use esse repositório para te :bulb:auxiliar:bulb: a encontrar o caminho:+1:
