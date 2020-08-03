@@ -2,13 +2,13 @@
  
 int main() {
  
-int a,b,r;
+    int a,b,r;
 
-scanf("%d%d",&a,&b);
+    scanf("%d%d",&a,&b);
 
-r=a+b;
+    r=a+b;
 
-printf("SOMA = %d\n",r);
+    printf("SOMA = %d\n",r);
  
     return 0;
 }
